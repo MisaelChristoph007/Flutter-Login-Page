@@ -1,6 +1,6 @@
 # Flutter app
 
-A new Flutter project built with Zapp!
+A new Flutter project
 
 ----
 
